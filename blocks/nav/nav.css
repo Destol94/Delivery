@@ -1,0 +1,12 @@
+@import url(./__list/nav__list.css);
+@import url(./__content/nav__content.css);
+@import url(./__item/nav__item.css);
+.nav {
+    width: 100%;
+    background-color: #F0F5FB;
+    margin: 0 auto;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 25px;
+}

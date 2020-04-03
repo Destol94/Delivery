@@ -1,0 +1,8 @@
+.nav__content {
+    max-width: 1160px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    height: 67px;
+}

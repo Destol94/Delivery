@@ -1,0 +1,5 @@
+@import url(./_veg-shadow/header__bg_veg-shadow.css);
+@import url(./_veg/header__bg_veg.css);
+.header__bg {
+    position: absolute;
+}

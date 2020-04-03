@@ -2,11 +2,9 @@
 @import url(../footer/footer.css);
 
 .page {
-    width: 100%;
-    max-width: 1440px;
+    max-width: 100%;
     margin: 0 auto;
     font-family: 'Montserrat', Helvetica, sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    background-color: black;
 }
