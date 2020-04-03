@@ -1,0 +1,7 @@
+.header__bg_veg-shadow {
+    background-image: url(../../../../images/icons.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    top: 50px;
+    width: 100%;
+}

@@ -1,0 +1,7 @@
+.header__bg_veg {
+    background-image: url(../../../../images/vegitable.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    top: 135px;
+    width: 100%;
+}

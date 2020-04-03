@@ -1,0 +1,7 @@
+@import url(./__phone/info__phone.css);
+@import url(./__timetable/info__timetable.css);
+@import url(./__number/info__number.css);
+.info {
+    display: flex;
+    margin-top: 34px;
+}

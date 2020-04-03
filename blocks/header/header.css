@@ -1,0 +1,11 @@
+@import url(./__pizza/header__pizza.css);
+@import url(./__bg/header__bg.css);
+.header {
+    position: relative;
+    background-color: #F0F5FB;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(../images/vegitable.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
